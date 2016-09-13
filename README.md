@@ -2,11 +2,11 @@
 
 Syntax: 
 
-    urldecode <string>
+    urldecode.sh <string>
 
 Example:
 
-    $ urldecode "foo%20bar"
+    $ urldecode.sh "foo%20bar"
     foo bar
 
 This implementation uses just the shell, 
